@@ -5,7 +5,7 @@
     "Tanmay Desai <thinktanmay@gmail.com>"
   ],
   "description": "Mixpanel Analytics JS library - bower installation for pure JS.",
-  "main": "mixpanel.js",
+  "main": "./mixpanel.min.js",
   "keywords": [
     "mixpanel",
     "mixpanel-js",
@@ -17,6 +17,12 @@
   "homepage": "https://github.com/tanmaydesai89/mixpanel",
   "ignore": [
     "**/.*",
+    ".*",
++   "src",
++   "*.yml",
++   "Gemfile",
++   "Gemfile.lock",
++   "*.md",
     "node_modules",
     "bower_components",
     "test",
