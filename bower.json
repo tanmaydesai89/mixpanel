@@ -1,20 +1,7 @@
 {
   "name": "mixpanel-bower",
   "version": "2.3.2",
-  "authors": [
-    "Tanmay Desai <thinktanmay@gmail.com>"
-  ],
-  "description": "Mixpanel Analytics JS library - bower installation for pure JS.",
   "main": "./mixpanel.min.js",
-  "keywords": [
-    "mixpanel",
-    "mixpanel-js",
-    "mixpanel-javascript",
-    "mixpanel-bower",
-    "bower-mixpanel"
-  ],
-  "license": "MIT",
-  "homepage": "https://github.com/tanmaydesai89/mixpanel",
   "ignore": [
     "**/.*",
     ".*",
