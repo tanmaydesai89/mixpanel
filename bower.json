@@ -1,7 +1,7 @@
 {
   "name": "mixpanel",
   "version": "2.3.2",
-  "main": "mixpanel.js",
+  "main": ["mixpanel.js","mixpanel-app.js"],
   "ignore": [
     "**/.*",
     "node_modules",
