@@ -28,12 +28,6 @@
                 b._i.push([a, e, d])
             };
             b.__SV = 1.2;
-            a = f.createElement("script");
-            a.type = "text/javascript";
-            a.async = !0;
-            a.src = "mixpanel.js";
-            e = f.getElementsByTagName("script")[0];
-            e.parentNode.insertBefore(a, e)
         }
     })(document, window.mixpanel || []);
     mixpanel.init(mixpanelID);
